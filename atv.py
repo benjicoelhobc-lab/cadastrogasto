@@ -139,5 +139,6 @@ while True:
 		case 6:
 			print("Programa encerrado.")
 			break
-
+		case _:
+			print("Opção inválida. Tente novamente.")
 		
